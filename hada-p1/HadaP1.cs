@@ -16,9 +16,6 @@ namespace hada_p1
         {
             return m == 0 ? 0 : m * 60;
         }
-        static void Main(string[] args)
-        {
-          
-        }
+        
     }
 }
