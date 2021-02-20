@@ -6,10 +6,14 @@ using System.Threading.Tasks;
 
 namespace hada_p1
 {
-    class Program
+    class HadaP1
     {
+        public static double Seconds2Minutes(double s) {
+            return s/60; 
+        }
         static void Main(string[] args)
         {
+          
         }
     }
 }
